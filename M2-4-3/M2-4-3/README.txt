@@ -1,0 +1,1 @@
+Ho caricato e fatto la pulizia dei dati in elencostrutture invece che in MODELLO DATI, spero non sia un problema!
